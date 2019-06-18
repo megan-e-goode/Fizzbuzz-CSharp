@@ -1,0 +1,11 @@
+/Users/student/Fizzbuzz-cSharp/bin/Debug/netcoreapp2.2/Fizzbuzz-cSharp.deps.json
+/Users/student/Fizzbuzz-cSharp/bin/Debug/netcoreapp2.2/Fizzbuzz-cSharp.runtimeconfig.json
+/Users/student/Fizzbuzz-cSharp/bin/Debug/netcoreapp2.2/Fizzbuzz-cSharp.runtimeconfig.dev.json
+/Users/student/Fizzbuzz-cSharp/bin/Debug/netcoreapp2.2/Fizzbuzz-cSharp.dll
+/Users/student/Fizzbuzz-cSharp/bin/Debug/netcoreapp2.2/Fizzbuzz-cSharp.pdb
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.csprojAssemblyReference.cache
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.csproj.CoreCompileInputs.cache
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.AssemblyInfoInputs.cache
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.AssemblyInfo.cs
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.dll
+/Users/student/Fizzbuzz-cSharp/obj/Debug/netcoreapp2.2/Fizzbuzz-cSharp.pdb
